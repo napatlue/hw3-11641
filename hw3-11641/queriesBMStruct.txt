@@ -1,0 +1,4 @@
+1:#SUM(obama #NEAR/2(family tree))
+2:#SUM(french lick #UW/8(resort and casino))
+7:#SUM(air #UW/3(travel information))
+15:#SUM(espn.title sports)

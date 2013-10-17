@@ -1,0 +1,30 @@
+1:obama.title family.title tree.title
+2:french.title lick.title resort.title and.title casino.title
+6:kcs.title
+7:air.title travel.title information.title
+15:espn.title sports.title
+16:arizona.title game.title and.title fish.title
+17:poker.title tournaments.title
+18:wedding.title budget.title calculator.title
+21:volvo.title
+25:euclid.title
+26:lower.title heart.title rate.title
+29:ps.title 2.title games.title
+31:atari.title
+32:website.title design.title hosting.title
+36:gps.title
+37:pampered.title chef.title
+38:dogs.title for.title adoption.title
+39:disneyland.title hotel.title
+41:orange.title county.title convention.title center.title
+42:the.title music.title man.title
+46:alexian.title brothers.title hospital.title
+54:president.title of the.title united.title states.title
+56:uss.title yorktown.title charleston.title sc.title
+59:how.title to build.title a fence.title
+62:texas.title border.title patrol.title
+73:neil.title young.title
+80:keyboard.title reviews.title
+82:joints.title
+91:er.title tv.title show.title
+97:south.title africa.title
